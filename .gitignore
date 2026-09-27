@@ -1,3 +1,5 @@
 .venv
 .vscode
 formula_trabalho.db
+__pycache__
+.ipynb_checkpoints
